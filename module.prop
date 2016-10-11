@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=com.catchingnow.icebox
+name=Ice Box System Plugin Module
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=Catching Now
+description=Speed up Ice Box's freezing and defrosting.
+support=https://play.google.com/store/apps/details?id=com.catchingnow.icebox
+donate=null
 cacheModule=false

@@ -36,7 +36,7 @@ CACHEMOD=false
 
 # This will be the folder name under /magisk or /cache/magisk
 # This should also be the same as the id in your module.prop to prevent confusion
-MODID=template
+MODID=com.catchingnow.icebox
 
 # Set to true if you need automount
 # Most mods would like it to be enabled
@@ -58,9 +58,9 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "*************************************"
+  ui_print " Ice Box System Plugin Magisk Module "
+  ui_print "*************************************"
 }
 
 ##########################################################################################
