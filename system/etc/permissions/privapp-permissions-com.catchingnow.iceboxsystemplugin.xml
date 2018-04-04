@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+  <privapp-permissions package="com.catchingnow.iceboxsystemplugin">
+	<permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE" />
+	<permission name="android.permission.KILL_BACKGROUND_PROCESSES" />
+  </privapp-permissions>
+</permissions>
