@@ -3,5 +3,6 @@
   <privapp-permissions package="com.catchingnow.iceboxsystemplugin">
 	<permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE" />
 	<permission name="android.permission.KILL_BACKGROUND_PROCESSES" />
+	<permission name="android.permission.INTERACT_ACROSS_USERS" />
   </privapp-permissions>
 </permissions>

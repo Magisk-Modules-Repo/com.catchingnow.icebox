@@ -1,7 +1,7 @@
 id=com.catchingnow.icebox
 name=Ice Box System Plugin Module
-version=v2
-versionCode=2
+version=v2.1
+versionCode=3
 author=Catching Now
 description=Speed up Ice Box's freezing and defrosting.
 support=https://play.google.com/store/apps/details?id=com.catchingnow.icebox
